@@ -7,7 +7,8 @@ class HolaMundo
 	def initialize()
 	end
 	def saluda()
-		puts "Hola Mundo!"
+		hola = "Hola Thom"
+		puts hola 
 	end
 
 end
